@@ -186,3 +186,15 @@ footer a {
         
     }
 }
+
+button {
+    padding: 1em 2em;
+    background-color: coral;
+    color:white;
+    text-transform: uppercase;
+   
+}
+
+button a {
+    text-decoration: none;
+}
